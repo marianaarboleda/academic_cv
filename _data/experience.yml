@@ -1,18 +1,35 @@
 # Jobs
-# DevOps Engineer at Pragma
-- company: Pragma
-  position: DevOps Engineer
-  duration: Sep, 2022 &mdash; Present
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement Istio service mesh during an internal company development to enable cluster log visualization using Kiali.</li><li>Tools/Technologies&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
+# Research assistant at Uninorte
+- company: 'Universidad del Norte - Co-creating Knowledge For Change: Learning Becomes Service to Justice'
+  position: Research Assistant
+  city:     Barranquilla, Colombia
+  duration: 2022 &mdash; Present
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Conducting comprehensive reviews and providing constructive feedback on reports submitted by international teams, contributing to the technical advisory role provided by the University.</li><li>Actively participating in the data collection process, utilizing various research instruments such as interviews and surveys for both quantitative and qualitative data collection.</li><li>Analyzing both quantitative and qualitative information gathered by international teams, contributing to the project’s data-driven insights.</li></ul></p>'
 
-# DevOps Engineer at Tech and Solve
-- company: Tech and Solve
-  position: DevOps Engineer
-  duration:  Jun, 2022 &mdash; Sept, 2022
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implement CI/CD pipelines as templates during the production deployment of two applications through the Azure cloud.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, Docker, Kubernetes, SonarQube.</li></ul></p>'
+# Universidad del Norte - Monitoring and Evaluation: Project Coding for Kids
+- company:  'Universidad del Norte - Monitoring and Evaluation: Project Coding for Kids'
+  position: Leading Data Analyst
+  city:     Barranquilla, Colombia
+  duration: 2020 &mdash; 2023
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Developed an innovative online visualization platform enabling seamless customization and download of charts, facilitating efficient data-driven analyses for the team.</li><li>Led a team of data analysts to collect, clean, and analyze program data, ensuring data accuracy and integrity for evidence-based decision-making.</li><li>Collaborated closely with other leaders and stakeholders, leveraging data insights to identify areas for improvement.</li><li>Pioneered the implementation of an automated evaluation process for a computational thinking maturity model.</li></ul></p>'
 
-# DevOps Engineer at Pragma
-- company: Pragma
-  position: DevOps Engineer
-  duration:   Apr, 2021  &mdash; Jun, 2022
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement CI/CD pipeline for internal company developments using Jenkins.</li><li>Tools/Technologies&#58 Azure DevOps, Jenkins, AWS, SonarQube.</li></ul></p>'
+# Asociación Colombiana de Facultades de Ingeniería - Consulting
+- company:  Asociación Colombiana de Facultades de Ingeniería - Consulting
+  position: Curriculum developer assistant
+  city:     Barranquilla, Colombia
+  duration: 2022
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Cooperated with senior curriculum developers to enhance the K-12 mathematics curriculum by integrating computational thinking concepts.</li><li>Conducted extensive research to identify opportunities for including computational thinking in the curriculum and aligning it with learning objectives.</li><li>Suggested, revised, and improved a year-by-year learning progression, ensuring a seamless course-by-course progression, which is now published and accessible at <a href="https://codingforkids.cdn.prismic.io/codingforkids/695adbe4-0d7a-4ade-88a3-0fe810982cf6_Orientaciones_PC_matemáticas.pdf">Guidelines for the Integration of Computational Thinking in Mathematics.</a></li></ul></p>'
+
+# Universidad EAFIT - EPM-RISE PASCAL PROJECT
+- company:  Universidad EAFIT - EPM-RISE PASCAL PROJECT
+  position: Assistant consultant
+  city:     Medellín, Colombia
+  duration: 2020
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Worked closely with the client to ensure effective translation of their needs into the tool’s features and functionalities.</li><li>Created an intuitive user interface using Python’s tkinter package for an electrical connections forecasting tool, enhancing user accessibility and usability.</li><li>Built a robust data processing pipeline, streamlining the input data for accurate forecasting and ensuring the tool’s reliability</li><li>Trained the client’s in-house team on how to operate the application and interpret the forecasting results, facilitating seamless knowledge transfer and long-term usability.</li></ul></p>'
+
+# Ternium Siderúrgica de Caldas
+- company:  Ternium Siderúrgica de Caldas
+  position: Young professional (career development program)
+  city:     Manizales, Colombia
+  duration: 2017 &mdash; 2019
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Successfully completed a comprehensive professional development program, gaining insights into different facets of the company by rotating through three distinct areas.</li><li>Managed an innovative project to monitor on-site construction and maintenance activities using drones.</li><li>Designed training courses tailored for new employees enhancing their onboarding experience.</li><li>Led regular meetings focused on industrial safety and continuous improvement, fostering a culture of ongoing learning.</li></ul></p>'

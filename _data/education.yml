@@ -1,24 +1,18 @@
 # Degree
-- degree: Fullstack Software Developer, Computer Science
-  uni: Holberton School
-  year: 2020 &mdash; 2021
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>C and Unix programming, graphical programming, data structures, assembly language and algorithms, as well as reverse engineering and security protocols.</li><li>Project development using Git, C, Python, MySQL, Docker, Data Structures and Algorithms.</li></ul></p>'
+- degree: PhD in Education
+  uni: Universidad del Norte
+  year: Jan 2022 &mdash; present
+  city: Barranquilla, Colombia
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Data Science Education</li><li>Advisor: Dr. Camilo Vieira.</li></ul></p>'
 
-- degree: Digital shaper - Data Science with Python, Data Science
-  uni: TechLabs
-  year: 2020
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Data analysis using Python as a tool to process, understand and present data and results.</li><li>Virtual and self‑managed education with a final group project.</li></ul></p>'
+- degree: MS Engineering
+  uni: Universidad EAFIT
+  year: Sept 2022
+  city: Medillín, Colombia
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>GPA: 4.78/5.0</li><li>Applying Machine Learning Models in sales forecasting</li></ul></p>'
 
-- degree: PCAP&#58 Programming Essentials in Python, Computer Science
-  uni: Python Institute
-  year: 2020
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Universal concepts of computer programming. Developer tools and the runtime environment; the syntax and semantics of the Python language; the fundamentals of object-oriented programming and the way they are adopted in Python; the means by which to resolve typical implementation problems; the writing of Python programs using standard language infrastructure. Fundamental programming techniques, best practices, customs and vocabulary, including the most common library functions in Python.</li></ul></p>'
-
-- degree: Bachelor of Laws
-  uni: Universidad de Caldas
-  year: 2006 &mdash; 2011
-
-- degree: English Common European Framework B2
-  uni: Bayside International English College
-  year: 2013
-  summary: Full time general english course for 24 weeks from 22 July to 20 December 2013. Melbourne, Australia.
+- degree: BS Prodution Engineering
+  uni: Universidad EAFIT
+  year: Dec 2016
+  city: Medellín, Colombia
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>GPA: 4.64/5.0</li></ul></p>'
