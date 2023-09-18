@@ -33,29 +33,33 @@ display_header_contact_info:    "true"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:          true
-resume_section_teaching_experience: true
-resume_section_education:           true
-resume_section_projects:            true
-resume_section_proeficient_in:      true
-resume_section_recognition:         false
-resume_section_links:               false
-resume_section_associations:        false
+resume_section_experience:                            true
+resume_section_teaching_experience:                   true
+resume_section_education:                             true
+resume_section_publications:                          true
+resume_section_presetations:                          true
+resume_section_outreach_and_professional_development: true
+resume_section_development:                           true
+resume_section_projects:                              false
+resume_section_proeficient_in:                        false
+resume_section_recognition:                           true
+resume_section_links:                                 false
+resume_section_associations:                          false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/sebastiandevops"
-  resume_twitter_url:           "http://twitter.com/ajinomano"
+  resume_github_url:            "https://github.com/marianaarboleda"
+  resume_twitter_url:           "http://twitter.com/marbolf"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/sebastianvalenciasierra"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/sebastianvalenciasierra"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://sebastiandevops.github.io"
+  resume_website_url:           "http://marianaarboleda.github.io"
   # resume_medium_url:            "https://medium.com/@jglovier"
-  resume_download_url:          "https://github.com/sebastiandevops/cv/files/11186918/Sebastian_Valencia_CV.pdf"
-  resume_spanish_url:           "https://sebastiandevops.github.io/hv/"
+  resume_download_url:          "https://marianaarboleda.github.io/hoja_de_vida/"
+  resume_spanish_url:           "https://marianaarboleda.github.io/hoja_de_vida/"
 resume_print_social_links:      true
 
 # Design settings

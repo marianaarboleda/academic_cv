@@ -1,0 +1,12 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Published
+- item: Published
+  # url: "#"
+  description: '<p align="justify"><ul class="resume-item-list" align="justify"><li><b>Arboleda-Florez, M.</b>, & Castro-Zuluaga, C. (2023). Interpreting direct sales’ demand forecasts using SHAP values. Production, 33, e20220035. <a href="https://www.scielo.br/j/prod/a/MHmsQyjYjMshXLmD6Q6xbkJ/?lang=en"> https://doi.org/10.1590/0103-6513.20220035</a></li><li>Castro-Zuluaga, C., &  <b>Arboleda-Florez, M.</b> (2021). Introduction. In Influencing Customer Demand: An Operations Management Approach (pp. 1–16). CRC Press. <a href="https://www.routledge.com/Influencing-Customer-Demand-An-Operations-Management-Approach/Hemmati-Sajadieh/p/book/9780367619985"> https://www.routledge.com/Influencing-Customer-Demand-An-Operations-Management-Approach/Hemmati-Sajadieh/p/book/9780367619985</a></li><li>Castro-Zuluaga, C. A., &  <b>Arboleda, M.</b> (2021). Sales Forecasting Difficulties’ Analysis on Colombian Direct Sales Companies. In M. T. Castañeda Galvis, J. Nuñez Rodriguez, M. del C. Pérez Ordoñez, &  M. Villa Marulanda (Eds.), Proceedings of the International Congress of Industrial Engineering (ICIE2019) (pp. 112–118). Springer International Publishing.<a href="https://link.springer.com/chapter/10.1007/978-3-030-49370-7_12"> https://doi.org/10.1007/978-3-030-49370-7\_12</a></li></ul></p>'
+
+# In Review
+- item: In Review
+  # url: "#"
+  description: '<p align="justify"><ul class="resume-item-list" align="justify"><li><b>Arboleda, M.</b>, Vieira, C., \&  Chiu, J. L. (2023). Opening the Machine Learning Black Box for Multidisciplinary Students: Scaffolding from GUI to Coding. 2023 IEEE Frontiers in Education Conference (FIE).</li></ul></p>'
