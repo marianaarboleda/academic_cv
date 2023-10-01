@@ -41,7 +41,7 @@ resume_section_presetations:                          true
 resume_section_outreach_and_professional_development: true
 resume_section_development:                           true
 resume_section_projects:                              false
-resume_section_proeficient_in:                        false
+resume_section_proeficient_in:                        true
 resume_section_recognition:                           true
 resume_section_links:                                 false
 resume_section_associations:                          false
@@ -58,7 +58,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://marianaarboleda.github.io"
   # resume_medium_url:            "https://medium.com/@jglovier"
-  resume_download_url:          "https://marianaarboleda.github.io/hoja_de_vida/"
+  resume_download_url:          "https://github.com/marianaarboleda/academic_cv/files/12777636/mariana_arboleda_cv.pdf"
   resume_spanish_url:           "https://marianaarboleda.github.io/hoja_de_vida/"
 resume_print_social_links:      true
 

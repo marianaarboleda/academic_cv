@@ -15,15 +15,13 @@
         }
       </style>
       <div>
-        <a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps"><img class="img" src="images/azure-devops.svg"></a>
-        <a href="https://aws.amazon.com/?nc1=h_ls" title="AWS"><img class="img" src="images/aws.svg"></a>
         <a href="https://git-scm.com" title="Git"><img class="img" src="images/git.svg"></a>
-        <a href="https://www.linux.org" title="GNU/Linux"><img class="img" src="images/linux.svg"></a>
         <a href="https://www.python.org" title="Python"><img class="img" src="images/python.svg"></a>
-        <a href="https://www.jenkins.io" title="Jenkins"><img class="img" src="images/jenkins.svg"></a>
-        <a href="https://www.docker.com" title="Docker"><img class="img" src="images/docker.svg"></a>
-        <a href="https://kubernetes.io" title="Kubernetes"><img class="img" src="images/kubernetes.svg"></a>
-        <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img class="img" src="images/sonarqube.svg"></a>
-        <a href="https://www.terraform.io" title="Terraform"><img class="img" src="images/terraform.svg"></a>
-        <a href="https://jmeter.apache.org" title="Apache JMeter"><img class="img" src="images/apachejmeter.svg"></a>
+        <a href="https://plotly.com/" title="Plotly"><img class="img" src="images/plotly.svg"></a>
+        <a href="https://www.r-project.org/" title="R language"><img class="img" src="images/r_project.svg"></a>
+        <a href="https://streamlit.io/" title="Streamlit"><img class="img" src="images/streamlit.svg"></a>
+        <a href="https://www.mysql.com/" title="MySQL"><img class="img" src="images/mysql-official.svg"></a>
+        <a href="https://github.com/" title="GitHub"><img class="img" src="images/github.svg"></a>
+        <a href="https://www.latex-project.org/" title="Latex"><img class="img" src="images/latex.svg"></a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img class="img" src="images/excel.svg"></a>
       </div>
